@@ -27,3 +27,6 @@ The IEEE is an association that dedicates to advancing innovation and technologi
 Data Representation 
 
 Numeric Conversions: A decimal number represnts any 10 digit number (0-9). A binary number is any 2 digit number (0-1). A hexadecimal number is a 16 digit number which uncludes 10 number's and 6 characters (0-9) and (A,B,C,D,E,F).
+
+Hexadecimal Color Representation: In a RGB color space #ab00ff is the color purple. It's made of 67.1% red, 0% green and 100% blue. In a CMYk color space it is made of 32.9% cyan, 100% magenta, 0% yellow and 0% black. #ab00ff has a hue angle of 280.2 degress and has a saturation of 100% and a lightness of 50%. #ab00ff color hex can be made by combining #ff00ff and #5700ff together. 
+The color #ab00ff shouldn't be problematic when it comes to website accessibility. The color has a lightness of 50% which isn't to light nor to dark. If the background is white or black the user can clearly see the color and would have no preblem viewing the leters using that color.
