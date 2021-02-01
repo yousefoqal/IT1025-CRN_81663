@@ -1,5 +1,6 @@
 ### Executive Summary
-IT 1025 will show you many explantians of hardware and how its used. It will also show you data representation and how it is made and used in this course
+The purpose of lab 2 is to show you about many things that an IT major will need to know for there career. They need to identify whats a harddrive and the components. They will need to know what's an ALU and CPU. As wheel the inputs that the computer has. They will need to identify the different logic gates and circuits. How to convert decimal number into Binary and vice versa.
+
 
 ### Hardware
 #### Hardware And Memory
