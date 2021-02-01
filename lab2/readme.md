@@ -1,5 +1,5 @@
 ### Executive Summary
-The purpose of lab 2 is to show you about many things that an IT major will need to know for there career. They need to identify whats a harddrive and the components. They will need to know what's an ALU and CPU. As wheel the inputs that the computer has. They will need to identify the different logic gates and circuits. How to convert decimal number into Binary and vice versa.
+The purpose of lab 2 is to show you about many things that an IT major will need to know for there career. It will show them how to use github and the many things you can do in it. It will teach them about information systems for business. It will teach them about hardware and its components. They will also learn the Data representation.
 
 
 ### Hardware
@@ -13,21 +13,28 @@ The ram helps make a computer faster because. The cpu runs the computer the data
 
 A Dimm has a 64 data path which means it can transfer 64 bits of data in 1 clock cycle. A simm has 32 data path which can transfer 32 bits of data in 1 clock cycle.
 
-ALU and Control Unit
+####ALU and Control Unit
 The ALU does all the mathematical operations inside the cpu. The ALU has 2 inputs which are Input A and Input B. The ram send instructions to the control unit and the control unit tells the ALU which operation to do then outputs the answer. Sometimes the ALU doesn't output an answer it send the Control Unit flags that tells it how the number compare and the control unit cn know what to do when it recives another instructions. The AlU 8 wires sends the output to the register. The register has only one job and the job is to store numbers temporary. The register is in the cpu which makes it faster and more useful to storing numbers. WHen the the AlU sends the output to the register it wont be saved until the control unit sends the set wire. When you want to take a number out of the register it hapeens using the enable wire from the control unit. THe register output wires connect to a thing called the CPU bus. A bus is a group of wires that connects multiple components inside a coumputer. The CPU bus has it's own set of registers with thier set and enable wires. The CPU uses the instruction address register to know where the instruction to come from in RAM. When the CPU is reading for the instructions it puts it on the CPU bus. Before the Instructions goes to ram it goes to the memoery address which its job is to tell the ram what the cpu wants it to do.
 
-CPU, Input aand Output
+####CPU, Input aand Output
 The input in the example is you scanning a item from the grocery store. The input goes to the CPU using binary numbers which the memory helps interpert the input. After the CPU and the memoery get the answer that becomes the output which lets you know the price and adds it to the checkout at the grocery store.
 
-Logic Gates and Circuits
+####Logic Gates and Circuits
 The truth tables appears to the right for all the gates. The truth table for a NAND gate with two inputs appears to the right. Input A for a NAND truth table is false,false,True,True. Input B is False,True,False,True. The output for the NAND is True,True,True,False. The NAND gate and the And gate have the same input A and input B. The output is the only thing different. The NAND gate and the AND gate have the same ASNI/IEEE and they also have the same IEC.
 
-IEEE - Ethically Aligned Design
+####IEEE - Ethically Aligned Design
 The IEEE is an association that dedicates to advancing innovation and technological excellence for the better of humanity. IEEE is the biggest techanical professional society. they are made to serve professionals involved in all aspects of the electrical, electronic, and computing fields and related areas of science and technology that underlie modern civilization. The improtance that it has is there are people from all around the world finding new technology to better how society to achieve the biggest and best technology.
 
-Data Representation 
+###Data Representation 
 
-Numeric Conversions: A decimal number represnts any 10 digit number (0-9). A binary number is any 2 digit number (0-1). A hexadecimal number is a 16 digit number which uncludes 10 number's and 6 characters (0-9) and (A,B,C,D,E,F).
+####Numeric Conversions:
+A decimal number represnts any 10 digit number (0-9). A binary number is any 2 digit number (0-1). A hexadecimal number is a 16 digit number which uncludes 10 number's and 6 characters (0-9) and (A,B,C,D,E,F).
 
-Hexadecimal Color Representation: In a RGB color space #ab00ff is the color purple. It's made of 67.1% red, 0% green and 100% blue. In a CMYk color space it is made of 32.9% cyan, 100% magenta, 0% yellow and 0% black. #ab00ff has a hue angle of 280.2 degress and has a saturation of 100% and a lightness of 50%. #ab00ff color hex can be made by combining #ff00ff and #5700ff together. 
+####Hexadecimal Color Representation:
+In a RGB color space #ab00ff is the color purple. It's made of 67.1% red, 0% green and 100% blue. In a CMYk color space it is made of 32.9% cyan, 100% magenta, 0% yellow and 0% black. #ab00ff has a hue angle of 280.2 degress and has a saturation of 100% and a lightness of 50%. #ab00ff color hex can be made by combining #ff00ff and #5700ff together. 
 The color #ab00ff shouldn't be problematic when it comes to website accessibility. The color has a lightness of 50% which isn't to light nor to dark. If the background is white or black the user can clearly see the color and would have no preblem viewing the leters using that color.
+
+
+###Conclusion 
+
+Through the course of this lab i have learned many things. I learned to identify whats a harddrive and the components. I now know what's an ALU and CPU. As well the inputs that the computer has. They will need toA
