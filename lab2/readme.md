@@ -23,3 +23,7 @@ The truth tables appears to the right for all the gates. The truth table for a N
 
 IEEE - Ethically Aligned Design
 The IEEE is an association that dedicates to advancing innovation and technological excellence for the better of humanity. IEEE is the biggest techanical professional society. they are made to serve professionals involved in all aspects of the electrical, electronic, and computing fields and related areas of science and technology that underlie modern civilization. The improtance that it has is there are people from all around the world finding new technology to better how society to achieve the biggest and best technology.
+
+Data Representation 
+
+Numeric Conversions: A decimal number represnts any 10 digit number (0-9). A binary number is any 2 digit number (0-1). A hexadecimal number is a 16 digit number which uncludes 10 number's and 6 characters (0-9) and (A,B,C,D,E,F).
